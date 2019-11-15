@@ -1,1 +1,2 @@
-# Python_practice
+# 概要
+pythonの勉強記録
